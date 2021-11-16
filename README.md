@@ -13,8 +13,7 @@
 </ul>
 
 ### Tools & Other things I don't necessarily hate
-<img src='https://img.shields.io/badge/-JavaScript-e8c238?logo=javascript&logoColor=white&style=flat'/>
-<img src='https://img.shields.io/badge/-Nodejs-1d8f24?logo=nodedotjs&logoColor=white&style=flat'/>
+<img src='https://img.shields.io/badge/-JavaScript-e8c238?logo=javascript&logoColor=white&style=flat'/> <img src='https://img.shields.io/badge/-Nodejs-1d8f24?logo=nodedotjs&logoColor=white&style=flat'/>
 <img src='https://img.shields.io/badge/-C++-2050d4?logo=cplusplus&logoColor=white&style=flat'/>
 <img src='https://img.shields.io/badge/-Java-c72e20?logo=java&logoColor=white&style=flat'/>
 <img src='https://img.shields.io/badge/-Python-1842cc?logo=python&logoColor=yellow&style=flat'/>
