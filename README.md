@@ -7,7 +7,7 @@
   <li>💻 VSCode is the superior IDE </li>
   <li>💸 Freelance coder </li>
   <li>🐍 I automate my life with Python </li>
-  <li>📳 Flutter Fanboy </li>
+  <li>📳 React Native Fanboy </li>
   <li>🐧 I love and hate Linux at the same time </li>
   <li>🤖 Aspiring AI noob </li>
 </ul>
